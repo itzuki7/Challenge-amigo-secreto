@@ -23,3 +23,15 @@ for  (const nombre of amigos) {
     lista.appendChild(listaAgrega);
 }
 }
+function sortearAmigo() {
+ if (amigos.length > 0 ){
+    let numeroSorteo = Math.floor(Math.random()*amigos.length);
+    let ganador =  amigos[numeroSorteo];
+    let textoGanador = document.getElementById("resultado");
+    textoGanador.innerHTML = `El amigo sorteado es ${ganador}`
+    console.log(numeroSorteo);
+    document.getElementById("listaAmigos").innerHTML = "";
+ } else {
+    alert("No hay amigos para sortear")
+ }
+} 

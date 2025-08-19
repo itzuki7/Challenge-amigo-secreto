@@ -17,3 +17,8 @@ Utilizacion
 4) dale al boton "Añadir para agregarlo a la lista
 5) cuando ya hagas cargado todos los nombre clickea el boton "Sortear amigo"
 6) La pagina te dara un ganador automaticamente
+
+Video de ayuda: 
+
+https://github.com/user-attachments/assets/4cbf6085-0729-4ca1-a437-1059b7bce370
+

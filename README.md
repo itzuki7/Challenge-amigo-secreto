@@ -2,6 +2,7 @@
 Este es un proyecto de una app web con HTML, CSS y JS que permite ingresar una lista de amigos, ver sus nombres en pantalla y elegir un ganador entre ellos
 
 
+
 Estructura del proyecto
 
 ├── index.html      
